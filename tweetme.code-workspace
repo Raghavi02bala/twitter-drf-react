@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "/home/raghavi/.local/share/virtualenvs/tweetme2-Mq-62Ttn/bin/python"
+	}
 }
