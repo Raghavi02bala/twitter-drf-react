@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "python.pythonPath": "/usr/bin/python3.6",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true
+}
